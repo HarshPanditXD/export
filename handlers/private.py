@@ -15,7 +15,7 @@ I'ᴍ Tʜᴇ Kɪᴀʀᴀ Roʙᴏᴛ! A Pᴏᴡᴇʀғᴜʟ Bᴏᴛ ᴛᴏ Pʟᴀ
 
 Aʟsᴏ I ʜᴀᴠᴇ ᴍᴏʀᴇ ғᴇᴀᴛᴜʀᴇs! Pʟᴇᴀsᴇ ʜɪᴛ ᴏɴ  ᴛᴏ sᴇᴇ ᴛʜᴇᴍ 😘!...
 
-Dᴇᴠᴇʟᴏᴘᴇʀ Bʏ : [Lᴏɢ Oᴜᴛ XD](https://t.me/Log_out_xd**
+Dᴇᴠᴇʟᴏᴘᴇʀ Bʏ : [𝐋𝐎𝐆 𝐎𝐔𝐓](https://t.me/Log_out_xd)💖[𝐄𝐕𝐈𝐋 𝐁𝐎𝐘](https://t.me/Evil_boy_xd)**
         """,
         reply_markup=InlineKeyboardMarkup(
             [
