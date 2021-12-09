@@ -22,22 +22,7 @@ Aʟsᴏ I ʜᴀᴠᴇ ᴍᴏʀᴇ ғᴇᴀᴛᴜʀᴇs! Pʟᴇᴀsᴇ ʜɪᴛ �
                         text="✨Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ✨", url="http://t.me/Kiara_ro_bot?startgroup=true")
                 ],
                 [
-                    InlineKeyboardButton(text="Pᴏᴡᴇʀᴇᴅ Bʏ🔇",https://t.me/The_Blaze_NETWORK"
-                    InlineKeyboardButton(   
-                        text="ꜱᴜᴘᴘᴏʀᴛ ⚡", url=f"https://t.me/Kiara_support"
-                    )
-
-                ],
-                [
-                    InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇꜱ ☑️", url=f"https://t.me/The_SECRET_worlds
-                    InlineKeyboardButton(   
-                        text="Owner", url=f"https://t.me/log_out_xd"
-                 ),
-            ],
-            [
-              InlineKeyboardButton(text="ʜᴇʟᴘ ᴀɴᴅ ᴄᴏᴍᴍᴀɴᴅꜱ", callback_data="help_back"),
-            ],
-        ]
+                    
      disable_web_page_preview=True
     )
 
