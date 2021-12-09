@@ -10,24 +10,26 @@ from helpers.filters import other_filters2
 async def start(_, message: Message):
     
     await message.reply_text(
-        f"""**𝗛𝗲𝘆 𝗕𝗮𝗯𝘆 𝘁𝗵𝗶𝘀 𝗶𝘀 𝗮 𝗲𝗦𝗽𝗼𝗿𝘁 𝗠𝘂𝘀𝗶𝗰𝗫 𝗧𝗵𝗲 𝗙𝗮𝘀𝘁𝗲𝘀𝘁 𝗮𝗻𝗱 𝗡𝗲𝘅𝘁 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝗼𝗻 𝗦𝘂𝗽𝗲𝗿 𝗛𝗶𝗴𝗵 𝗤𝘂𝗮𝗹𝗶𝘁𝘆 𝗠𝘂𝘀𝗶𝗰 𝗣𝗹𝗮𝘆𝗲𝗿 𝘄𝗶𝘁𝗵 𝗖𝗼𝗼𝗹 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀 𝗗𝗲𝘀𝗶𝗴𝗻𝗲𝗱 𝗙𝗼𝗿 𝗬𝗼𝘂...
-𝗗𝗲𝘀𝗶𝗴𝗻𝗲𝗱 𝗕𝘆 : [𝗛𝗲𝘅𝗼𝗿 𝘅𝗗](https://t.me/Its_Hexor)**
+        f"""**Hi  ,I'ᴍ Tʜᴇ Kiara  RoBᴏᴛ! A Pᴏᴡᴇʀғᴜʟ Bᴏᴛ ᴛᴏ Pʟᴀʏ Mᴜsɪᴄ ɪɴ Yᴏᴜʀ Gʀᴏᴜᴘ Vᴏɪᴄᴇ Cʜᴀᴛ 😇! 
+
+Aʟsᴏ I ʜᴀᴠᴇ ᴍᴏʀᴇ ғᴇᴀᴛᴜʀᴇs! Pʟᴇᴀsᴇ ʜɪᴛ ᴏɴ  ᴛᴏ sᴇᴇ ᴛʜᴇᴍ 😘!...
+𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 : [⟁⃤𓆩𓆩𝐋𝐎𝐆 𝐎𝐔𝐓 𝘅𝗗𓆪𓆪⟁⃤](https://t.me/log_out_xd)**
         """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "❰𝗢𝘄𝗻𝗲𝗿❱", url="https://t.me/Sanki_Owner")
+                        "✨𝗔𝗗𝗗 𝗠𝗘 𝗧𝗢 𝗬𝗢𝗨𝗥 𝗚𝗥𝗢𝗨𝗣✨", url="http://t.me/Kiara_ro_bot?startgroup=true")
                   ],[
                     InlineKeyboardButton(
-                        "❰𝗦𝘂𝗽𝗽𝗼𝗿𝘁❱", url="https://t.me/AboutHexor"
+                        "🌷𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗖𝗵𝗮𝗻𝗻𝗲𝗹🥀", url="http://t.me/The_Blaze_NETWORK"
                     ),
                     InlineKeyboardButton(
-                        "❰𝗚𝗿𝗼𝘂𝗽❱", url="https://t.me/eSportClan"
+                        "✨𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗚𝗿𝗼𝘂𝗽✨", url="https://t.me/The_Secret_worlds"
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "❰𝗖𝗼𝗺𝗺𝗮𝗱𝘀❱", url="https://telegra.ph/eSport-MusicX-Command-11-30"
+                        "🌷𝗖𝗼𝗺𝗺𝗮𝗱𝘀💥", url="https://telegra.ph/eSport-MusicX-Command-11-30"
                     )]
             ]
         ),
@@ -41,7 +43,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "𝗦𝘂𝗽𝗽𝗼𝗿𝘁", url="https://t.me/AboutHexor")
+                        "𝗦𝘂𝗽𝗽𝗼𝗿𝘁", url="https://t.me/proud_of_Indian")
                 ]
             ]
         )
