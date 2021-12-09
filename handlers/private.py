@@ -19,20 +19,25 @@ Aʟsᴏ I ʜᴀᴠᴇ ᴍᴏʀᴇ ғᴇᴀᴛᴜʀᴇs! Pʟᴇᴀsᴇ ʜɪᴛ �
             [
                 [
                     InlineKeyboardButton(
-                        "✨𝗔𝗗𝗗 𝗠𝗘 𝗧𝗢 𝗬𝗢𝗨𝗥 𝗚𝗥𝗢𝗨𝗣✨", url="http://t.me/Kiara_ro_bot?startgroup=true")
-                  ],[
-                    InlineKeyboardButton(
-                        "🌷𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗖𝗵𝗮𝗻𝗻𝗲𝗹🥀", url="http://t.me/The_Blaze_NETWORK"
-                    ),
-                    InlineKeyboardButton(
-                        "✨𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗚𝗿𝗼𝘂𝗽✨", url="https://t.me/The_Secret_worlds"
+                        text="✨Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ✨", url="http://t.me/Kiara_ro_bot?startgroup=true")
+                ],
+                [
+                    InlineKeyboardButton(text="Pᴏᴡᴇʀᴇᴅ Bʏ🔇",https://t.me/The_Blaze_NETWORK"
+                    InlineKeyboardButton(   
+                        text="ꜱᴜᴘᴘᴏʀᴛ ⚡", url=f"https://t.me/Kiara_support"
                     )
-                ],[ 
-                    InlineKeyboardButton(
-                        "🌷𝗛𝗲𝗹𝗽 & 𝗖𝗼𝗺𝗺𝗮𝗻𝗱𝘀💥", url="https://telegra.ph/eSport-MusicX-Command-11-30"
-                    )]
-            ]
-        ),
+
+                ],
+                [
+                    InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇꜱ ☑️", url=f"https://t.me/The_SECRET_worlds
+                    InlineKeyboardButton(   
+                        text="Owner", url=f"https://t.me/log_out_xd"
+                 ),
+            ],
+            [
+              InlineKeyboardButton(text="ʜᴇʟᴘ ᴀɴᴅ ᴄᴏᴍᴍᴀɴᴅꜱ", callback_data="help_back"),
+            ],
+        ]
      disable_web_page_preview=True
     )
 
