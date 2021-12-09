@@ -9,7 +9,7 @@ from helpers.filters import other_filters2
 async def start(_, message: Message):
     
     await message.reply_text(
-        f"""**Hi 😉️!
+        f"""<b>Hi {message.from_user.mention} 😉️!</b>
 
 I'ᴍ Tʜᴇ Kɪᴀʀᴀ Roʙᴏᴛ! A Pᴏᴡᴇʀғᴜʟ Bᴏᴛ ᴛᴏ Pʟᴀʏ Mᴜsɪᴄ ɪɴ Yᴏᴜʀ Gʀᴏᴜᴘ Vᴏɪᴄᴇ Cʜᴀᴛ 😇! 
 
