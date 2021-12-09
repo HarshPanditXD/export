@@ -19,13 +19,23 @@ Aʟsᴏ I ʜᴀᴠᴇ ᴍᴏʀᴇ ғᴇᴀᴛᴜʀᴇs! Pʟᴇᴀsᴇ ʜɪᴛ �
             [
                 [
                     InlineKeyboardButton(
-                        text="✨Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ✨", url="http://t.me/Kiara_ro_bot?startgroup=true")
-                ],
-                [
-                    
+                        "❰𝗢𝘄𝗻𝗲𝗿❱", url="https://t.me/Sanki_Owner")
+                  ],[
+                    InlineKeyboardButton(
+                        "❰𝗦𝘂𝗽𝗽𝗼𝗿𝘁❱", url="https://t.me/AboutHexor"
+                    ),
+                    InlineKeyboardButton(
+                        "❰𝗚𝗿𝗼𝘂𝗽❱", url="https://t.me/eSportClan"
+                    )
+                ],[ 
+                    InlineKeyboardButton(
+                        "❰𝗖𝗼𝗺𝗺𝗮𝗱𝘀❱", url="https://telegra.ph/eSport-MusicX-Command-11-30"
+                    )]
+            ]
+        ),
      disable_web_page_preview=True
-    )
-
+                    
+     
 @Client.on_message(filters.command("hexor") & ~filters.private & ~filters.channel)
 async def gstart(_, message: Message):
       await message.reply_text("""**𝗕𝗼𝘁 𝗢𝗻𝗹𝗶𝗻𝗲..😎**""",
